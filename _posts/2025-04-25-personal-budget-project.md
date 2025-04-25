@@ -18,5 +18,4 @@ This is a portfolio project to showcase my skills in build a Back-End with Expre
 - Create an API using Node.js and Express
 - Be able to create, read, update and delete data
 - Use Git version control to keep track of work
-- Use the command line to navigate your files and folders
 - Use Postman to test API endpoints
