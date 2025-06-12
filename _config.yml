@@ -16,7 +16,7 @@ timezone:
 
 title: Garrisec | Web Application Pentester# the main title
 
-tagline: Just a simple student of cybersecurity # it will display as the subtitle
+tagline: Just a student of pentesting web applications. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog about cybersecurity.
